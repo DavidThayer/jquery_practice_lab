@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 32px;
+}
+
+button, input {
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+button {
+    background-color: pink;
+}
+
+button:hover {
+    background-color: red;
+}
